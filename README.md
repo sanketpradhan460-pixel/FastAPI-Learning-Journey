@@ -1,2 +1,17 @@
-# FastAPI-Learning-Journey
-A hands-on FastAPI learning repository documenting my daily progress, code implementations, practical exercises, and mini-projects while learning backend development and building production-ready APIs with Python.
+FastAPI Learning Journey 🚀
+Learning backend development with Python, one implementation at a time.
+Python
+FastAPI
+REST APIs
+Backend Development
+
+
+Learning roadmap
+- API Fundamentals
+- FastAPI Basics
+- Pydantic & Validation
+- Database Integration
+- JWT Authentication
+- Docker & Deployment
+
+Daily coding • Practical examples • Mini projects
